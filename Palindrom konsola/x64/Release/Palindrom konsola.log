@@ -1,0 +1,8 @@
+﻿  Palindrom konsola.cpp
+C:\Users\ogryz\source\repos\Palindrom konsola\Palindrom konsola.cpp(89,12): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 97 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Palindrom konsola.vcxproj -> C:\Users\ogryz\source\repos\Palindrom konsola\x64\Release\Palindrom konsola.exe
